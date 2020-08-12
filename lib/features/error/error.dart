@@ -1,0 +1,1 @@
+class LoadError extends Error {}
